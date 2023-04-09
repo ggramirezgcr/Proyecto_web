@@ -10,3 +10,8 @@ header{
     padding: 15px 0 15px 15px;
 }
 
+footer{
+    background-color: rgb(32, 30, 34);
+    padding: 20px 0 20px 10px;
+    color: rgb(71, 200, 255);
+}

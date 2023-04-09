@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+header{
+    background-color: blueviolet;
+    color: white;
+    padding: 15px 0 15px 15px;
+}
+

@@ -28,3 +28,11 @@ main{
     padding: 40px 0 0 20px;
 }
 
+.contenedor_subparrafo{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(226, 43, 98);
+    color:white;
+    font-weight: 700;
+}
+

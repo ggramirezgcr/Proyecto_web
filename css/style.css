@@ -10,11 +10,7 @@ header{
     padding: 15px 0 15px 15px;
 }
 
-footer{
-    background-color: rgb(32, 30, 34);
-    padding: 20px 0 20px 10px;
-    color: rgb(71, 200, 255);
-}
+
 
 
 span{
@@ -26,6 +22,7 @@ span{
 main{
     height: 200px;
     padding: 40px 0 0 20px;
+    background-color: #58f372;
 }
 
 .contenedor_subparrafo{
@@ -34,5 +31,12 @@ main{
     background-color: rgb(226, 43, 98);
     color:white;
     font-weight: 700;
+}
+
+footer{
+    background-color: rgb(32, 30, 34);
+    margin-top: 50px;
+    padding: 20px 0 20px 10px;
+    color: rgb(71, 200, 255);
 }
 
